@@ -1,4 +1,4 @@
-# whcoffee
+# coffee
 
 ## Project setup
 ```
